@@ -2,4 +2,4 @@
 Testing SCM import on codeBeamer
 
 This is some message!
-And some additional text.
+And some text.
